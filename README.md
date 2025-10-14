@@ -6,3 +6,6 @@
 ## 第5單元 資訊委外安全
 ## 第6單元 存取控制與加解密技術
 ## 第7單元 網路安全與實體安全
+
+- 8winflying@gmail.com
+- https://check.twnic.tw/
