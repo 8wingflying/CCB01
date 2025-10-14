@@ -9,6 +9,7 @@
 
 # 設定
 - CrowdStrike出包為何掀起史上IT最大癱瘓？https://www.cw.com.tw/article/5131204
+  - https://en.wikipedia.org/wiki/2024_CrowdStrike-related_IT_outages 
 - TOP 10 Misconfiguration
 
 ## 聯絡清單
