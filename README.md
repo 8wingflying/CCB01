@@ -7,5 +7,13 @@
 ## 第6單元 存取控制與加解密技術
 ## 第7單元 網路安全與實體安全
 
+# 設定
+- CrowdStrike出包為何掀起史上IT最大癱瘓？https://www.cw.com.tw/article/5131204
+- TOP 10 Misconfiguration
+
+## 聯絡清單
 - 8winflying@gmail.com
+
+
+## 檢查HTTPs
 - https://check.twnic.tw/
