@@ -12,7 +12,7 @@
   - https://en.wikipedia.org/wiki/2024_CrowdStrike-related_IT_outages 
 - TOP 10 Misconfiguration
 
-## 聯絡清單
+## 聯絡email
 - 8wingflying@gmail.com
 
 
