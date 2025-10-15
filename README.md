@@ -13,7 +13,7 @@
 - TOP 10 Misconfiguration
 
 ## 聯絡清單
-- 8winflying@gmail.com
+- 8wingflying@gmail.com
 
 
 ## 檢查HTTPs
