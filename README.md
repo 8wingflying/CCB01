@@ -29,4 +29,5 @@
 - SELECT * FROM user_data WHERE last_name = '1'or '1'='1'
 - SELECT * FROM user_data
 #### 測試2:Stored XSS Attacks
-- 攻擊的Payload == >  <script>alert(`XSS Hacking`)<script/>
+- 攻擊的Payload == >`  <script>alert("XSS Hacking")<script/> `
+- `<script>alert('XSS Vulnerability!')</script>`
